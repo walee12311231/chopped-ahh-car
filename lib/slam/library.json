@@ -1,8 +1,0 @@
-{
-  "name": "slam",
-  "version": "0.1.0",
-  "description": "TinySLAM occupancy-grid SLAM for ESP32 with TF-Luna LiDAR",
-  "keywords": ["slam", "lidar", "tf-luna", "esp32", "robotics", "mapping"],
-  "frameworks": "arduino",
-  "platforms": "espressif32"
-}
